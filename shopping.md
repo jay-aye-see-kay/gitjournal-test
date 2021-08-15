@@ -2,3 +2,4 @@
 - [ ] apples
 - [ ] onions
 - [ ] salad dressing
+- [ ] mayonnaise
