@@ -1,1 +1,4 @@
-- pants
+- [ ] pants
+- [ ] apples
+- [ ] onions
+- [ ] salad dressing
